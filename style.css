@@ -1,0 +1,29 @@
+body{
+	font-family: 'Dosis', sans-serif;
+}
+
+main{
+	height: 500px;
+	width: 100
+
+}
+.icono{
+	width: 15%;
+	height: 320px;
+	background-color: #E0E0E0;
+	float: left;
+	border: 5px solid white;
+	text-align: center;
+	color: #797979;
+	padding: 15px;	
+	border-radius: 10px;
+}
+
+.ik{
+	font-size: 80px;
+}
+.icono:hover{
+	width: 17%;
+	height: 325px;
+	color: #91D5CC;
+}
